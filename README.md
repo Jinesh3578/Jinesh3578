@@ -9,7 +9,7 @@
 - 🌱 I'm currently learning advanced TypeScript and cloud technologies
 - 👯 I'm looking to collaborate on open-source projects
 - 💬 Ask me about JavaScript, React, Node.js, and databases
-- 📫 How to reach me: *(add your contact link here)*
+- 📫 How to reach me: 
 - ⚡ Fun fact: I love solving complex problems with clean, efficient code
 
 ---
